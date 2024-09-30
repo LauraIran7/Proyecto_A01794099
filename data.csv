@@ -1,0 +1,51 @@
+command,action
+Move the arm to the left,move_left
+Make the arm move to the left,move_left
+Move the arm to the right,move_right
+Make the arm move to the right,move_right
+Move the arm up,move_up
+Make the arm move up,move_up
+Move the arm down,move_down
+Make the arm move down,move_down
+Rotate the arm clockwise,rotate_clockwise
+Spin the arm clockwise direction,rotate_clockwise
+Rotate the arm counterclockwise,rotate_counterclockwise
+Spin the arm counterclockwise direction,rotate_counterclockwise
+Extend the arm to me,extend
+Reach out the arm towards me,extend
+Retract the arm from me,retract
+Withdraw the arm away from me,retract
+Open the gripper,open_gripper
+Open your hand,open_gripper
+Close the gripper,close_gripper
+Clamp the gripper shut,close_gripper
+Pick up the object,pick_up
+Grab the object,pick_up
+Place the object on the assembly line,place_on_conveyor
+Put the object onto the conveyor,place_on_conveyor
+Screw the object in place,screw_in_place
+Fasten the object in its place,screw_in_place
+Tighten the bolts,tighten_bolts
+Secure the bolts,tighten_bolts
+Adjust the position of the object,adjust_position
+Realign the position of the item,adjust_position
+Verify the position of the object,verify_position
+Confirm the object's alignment,verify_position
+Signal the technician when the operation is complete,signal_technician
+Alert the technician when the task is done,signal_technician
+Move to the next object,move_to_next
+Proceed to the subsequent object,move_to_next
+Check for malfunctions,check_malfunctions
+Inspect for any irregularities,check_malfunctions
+Shut down the system,shut_down
+Turn off the system,shut_down
+Play a song,no_command
+Tell me a joke,no_command
+What is the weather like?,no_command
+How are you?,no_command
+Open the door,no_command
+Turn on the lights,no_command
+Set an alarm,no_command
+Order a pizza,no_command
+Book a flight,no_command
+Send an email,no_command
